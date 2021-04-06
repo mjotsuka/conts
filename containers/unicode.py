@@ -3,7 +3,7 @@ import unicodedata
 
 class NormalizedStr:
     '''
-    By default, Python's str type stores any valid unicode string.
+    By default Python's str type stores any valid unicode string.
     This can result in unintuitive behavior.
     For example:
 
