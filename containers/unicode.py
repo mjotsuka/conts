@@ -14,7 +14,7 @@ class NormalizedStr:
 
     The two strings to the right of the in keyword above are
     equal *semantically*,
-    but not equal *representationally*.
+    but they are not equal *representationally*.
     In particular, the first is in NFC form, and the second is
     in NFD form.
     The purpose of this class is to automatically normalize our
