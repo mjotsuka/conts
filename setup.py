@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="cmc_csci046_mjotsuka",
+    name="cmc_csci046_mjotsuka_trees",
     version="1.0.0",
     description="Class functions for CSCI046 implementing fibonacci, range, unicode, BAST, BinaryTree, AVLTree, and Heap",
     long_description=README,
